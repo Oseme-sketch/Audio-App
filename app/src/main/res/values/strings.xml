@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Audio App</string>
+    <string name="audio_hint">Click icon below to start and stop audio input</string>
+    <string name="audio_button">Audio Button</string>
 </resources>
